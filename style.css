@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    margin: 0;
+}
+  
+.sidebar {
+    width: 5%;
+    background-color: #f1f1f1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+  
+.notes-container {
+    flex-grow: 1;
+    padding: 20px;
+}
+  
+.button {
+    margin-bottom: 10px;
+}
