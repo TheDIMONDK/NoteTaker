@@ -6,7 +6,7 @@ body {
 }
   
 .sidebar {
-    width: 5%;
+    width: 190px;
     background-color: #f1f1f1;
     padding: 20px;
     display: flex;
@@ -16,8 +16,10 @@ body {
 .notes-container {
     flex-grow: 1;
     padding: 20px;
+    font-size: 26pt;
 }
   
 .button {
     margin-bottom: 10px;
+    font-size: 24pt;
 }
