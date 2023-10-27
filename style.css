@@ -7,10 +7,11 @@ body {
 
 .btn {
     margin-bottom: 10px;
-    font-size: 18pt !important;
-    background-color: rgba(135, 94, 48, 0.812) !important;
-    border-color: rgb(75, 51, 0) !important;
-    color: white;
+    font-size: 15pt !important;
+    font-weight: bold;
+    background-color: rgb(55, 55, 55) !important;
+    border-color: rgb(55, 55, 55) !important;
+    color: rgb(247, 240, 240);
     border-width: 2px !important;
 }
 
@@ -54,4 +55,5 @@ h1 {
     margin-left: 30px;
     margin-right: 30px;
     margin-bottom: 15px;
+    padding: 7pt;
 }
