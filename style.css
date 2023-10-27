@@ -54,6 +54,7 @@ h1 {
     margin-left: 30px;
     margin-right: 30px;
     margin-bottom: 15px;
+<<<<<<< HEAD
 }
 .wrapper {
     display: flex;
@@ -105,3 +106,6 @@ h1 {
     height: 100vh;
     text-align: center;
   }
+=======
+}
+>>>>>>> d45470e9a3921f13558f6101f577f5f5ff4b27ec
