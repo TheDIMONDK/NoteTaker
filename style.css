@@ -90,3 +90,27 @@ h1 {
 .form-sumbit-button {
     margin-top: 20px !important;
 }
+
+
+/* Делает лейбл-текст невыделяемым */
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.form-check {
+    font-size: 26px !important;
+}
+
+.form-check-label {
+    margin-left: 15px;
+}
+
+.checkbox {
+    width: 30px;
+    height: 30px;
+}
