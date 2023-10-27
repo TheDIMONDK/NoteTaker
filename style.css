@@ -26,6 +26,13 @@ h1 {
     font-size: 26pt;
 }
 
+.note {
+    padding: 10px;
+    padding-left: 15px;
+    margin-bottom: 15px;
+    background-color: #dbdbdb;
+}
+
 
 
 .sidebar {
