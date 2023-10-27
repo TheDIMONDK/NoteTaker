@@ -39,8 +39,6 @@ h1 {
     margin-top: 5px;
 }
 
-
-
 .div-settings {
     width: 40%;
     background-color: #f1f1f1;
@@ -56,4 +54,11 @@ h1 {
     margin-right: 30px;
     margin-bottom: 15px;
     padding: 7pt;
+}
+.about-main{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+
+
 }
