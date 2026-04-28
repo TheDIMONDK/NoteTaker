@@ -1,4 +1,4 @@
 # NoteTaker
 Simple web application for notes
 
-In progress!
+## Maybe it will be improved in the future, but I'm archiving it for now.
